@@ -12,8 +12,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 //mostly follow format from photo-port
 //make sure most of each component is in respective pages. 
 
-//currently working: header, footer
+
 import 'font-awesome/css/font-awesome.min.css';
+
+///DEPLOYS 
+//https://young-mesa-21078.herokuapp.com/ | https://git.heroku.com/young-mesa-21078.git
 
 function App() {
 

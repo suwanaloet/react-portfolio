@@ -1,5 +1,22 @@
-# Getting Started with Create React App
+# Sean Suwanaloet- React Portfolio github landing page
 
+
+## Description
+ This is the active codebase for Sean's project portfolio, resume, and contact information. Bootstrapped and made with React/ Create React App
+
+
+
+# Deploy links
+
+[Portfolio Link](https://young-mesa-21078.herokuapp.com/#About)
+![Image](https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/portfolio-sample.png)
+
+<br />
+
+
+
+
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
