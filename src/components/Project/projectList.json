@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "run-buddy",
+        "title": "Run Buddy",
+        "github": "https://github.com/suwanaloet/run-buddy",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/run-buddy.png",
+        "alt": "run buddy application picture, signup and navbar",
+        "description": "Website that offers fitness training services, built with HTML and CSS.",
+        "deploy": "https://suwanaloet.github.io/run-buddy/"
+        
+    },
+    {
+        "id": 2,
+        "name": "work-day-scheduler",
+        "title": "Work Day Scheduler",
+        "github": "https://github.com/suwanaloet/suwanaloetWorkDayScheduler",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/Work%20Day%20Scheduler.png",
+        "description": "A simple javascript app to help plan the workday.",
+        "deploy": "https://suwanaloet.github.io/suwanaloetWorkDayScheduler/Develop/index.html"
+    },
+    {
+        "id": 3,
+        "name": "note-taker",
+        "title": "Note Taker",
+        "github": "https://github.com/suwanaloet/notetaker",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/note-taker.png",
+        "alt": "note taker application picture, sample calendar",
+        "description": "Added the backend to an existing frontend to make a note taking javascript app.",
+        "deploy": "https://immense-mountain-01092.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "name": "weather-dashboard",
+        "title": "Weather Dashboard",
+        "github": "https://github.com/suwanaloet/suwanaloetweatherdashboard",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/weather-dashboard.png",
+        "alt": "weather dashbaord application picture, weather forecast",
+        "description": "Weather search by city javascript app for 5 day forecast",
+        "deploy": "https://suwanaloet.github.io/suwanaloetweatherdashboard/"
+    },
+    {
+        "id": 5,
+        "name": "budget-tracker",
+        "title": "Budget Tracker",
+        "github": "https://github.com/suwanaloet/Budget-Tracker2",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/budget-tracker.png",
+        "alt": "budget tracker application picture, sample budget with graph",
+        "description": "Budget tracker application updated for both online and offline functionality and access. Employs use of service workers, manifest, to achieve offline functionality. Deployed with heroku through MongoDB Atlas.",
+        "deploy": "https://damp-beach-64004.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "name": "book-search",
+        "title": "Book Search",
+        "github": "https://github.com/suwanaloet/book-search",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/book-search.gif",
+        "alt": "book search application gif scrolling through searched books",
+        "description": "Coding refactor of a google books API search engine into a GraphQL API built with Apollo. The app is built using the MERN stack, with React for front end, MongoDB for database, and Express.js and Node.js server and API.",
+        "deploy": "https://immense-refuge-82406.herokuapp.com/"
+    }
+]

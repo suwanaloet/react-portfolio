@@ -1,38 +1,227 @@
-.App {
-  text-align: center;
+
+/**MAIN**/
+:root {
+  --primary: #a83fc4;
+  --secondary: #d13b49;
+  --tertiary: #000100ff;
+  --quaternary: #c7d6d5ff;
+  --quinary: #ecebf3ff;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+/**GENERAL**/
+.pageHeader {
+  font-family: 'Libre Baskerville', serif;
+  background-color: var(--secondary);
+  border-radius: 5px;
+}
+/**HEADER**/
+#aboutName {
+  font-family: 'Libre Baskerville', serif;
+  font-size: bold;
+  justify-content: flex-start;
+  flex-direction: row;
+  background-color: var(--primary)
+  
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/**NAVIGATON**/
+.nav {
+  font-family: 'Libre Baskerville', serif;
+  justify-content: flex-end;
+  flex-direction: row;
+  background-color: var(--secondary);
+  color: var(--tertiary);
+  font-size: 30px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.nav a {
+  color: var(--tertiary)
+}
+
+.nav a:hover {
+  color: var(--quinary)
+}
+
+
+/**FOOTER**/
+.footer {
+  padding: 50px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 30px;
+  background-color: var(--quinary);
+  max-height: 50px
 }
 
-.App-link {
-  color: #61dafb;
+.footerLinkedIn {
+  width:20%;
+  height: auto;
+}
+.footerGitHub {
+  width:20%;
+  height: auto;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.footer-image {
+  width: 40%;
+  align-items: center;
 }
+
+#bottom {
+  height: 30px;
+  background-color: var(--tertiary);
+}
+
+
+/**ABOUT**/
+
+.aboutSection {
+  background-color: var(--primary);
+  color: var(--tertiary);
+  padding-left: 2%;
+  padding-right: 2%;
+  background-clip: margin-box; 
+}
+
+#nameDiv h1{
+  border-color: var(--secondary);
+  border-style: solid;
+  padding: 10px;
+  margin: 10px;
+  background-color: var(--secondary);
+  color: var(--tertiary)
+}
+
+
+
+
+.bannerContainer {
+  height: 400px;
+  overflow: hidden;
+}
+.banner {
+  width:100%;
+  position: relative;
+  top: -300px;
+}
+
+#aboutContent {
+  background-color: var(--primary);
+  color: var(--tertiary)
+}
+
+.mainPhoto {
+  padding: 10px;
+  margin: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 70%;
+  border-radius: 30%;
+  box-shadow: 10px 10px 40px 5px var(--secondary) inset, -30px -30px 70px 10px var(--tertiary) inset;
+}
+
+
+.aboutText {
+  font-family: 'Libre Baskerville', serif;
+  padding: 10px;
+  margin: 10px 30px;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-right: 2px solid;
+
+}
+/**PROJECTS**/
+.projectTitle {
+  font-family: 'Libre Baskerville', serif;
+  font-size: bold;
+  justify-content: flex-start;
+  flex-direction: row;
+  background-color: var(--primary);
+  text-align: center;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+.projectContainer {
+  text-align: center;
+  border-radius: 25px;
+  background: var(--secondary);
+  padding: 20px;
+}
+
+.descriptionWrapper {
+  background-color: var(--quaternary);
+  border-radius: 25px;
+  padding: 20px;
+  justify-content: flex-start
+}
+/**CONTACT**/
+
+.contact-container {
+  border-bottom: 1px solid;
+  border-style: groove;
+  border-width: 10px;
+  border-radius: 25px;
+  border-color: var(--tertiary)
+}
+
+.contact-form {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  flex-direction: column;
+}
+
+#contactInfo {
+  text-align: center;
+  border-radius: 25px;
+  background: var(--secondary);
+  padding: 10px;
+  border: 10px;
+  margin: 20px;
+}
+
+#contactTitle {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+}
+
+/**RESUME**/
+.resume-body {
+  font-family: 'Libre Baskerville', serif;
+  border-style: groove;
+  border-width: 10px;
+  border-radius: 25px;
+  border-color: var(--tertiary)
+}
+
+
+.resume-summary {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.resume-link {
+  padding: 20px;
+  font-size:25px;
+  align-content: left;
+  color: var(--tertiary)
+}
+
+.resume-link a:hover {
+  color: var(--quaternary);
+  background-color: var(--primary);
+  border-radius: 30%;
+  padding: 30px
+}
+
+
+
+
+
+
