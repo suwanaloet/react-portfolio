@@ -58,8 +58,8 @@
         "alt": "book search application gif scrolling through searched books",
         "description": "Coding refactor of a google books API search engine into a GraphQL API built with Apollo. The app is built using the MERN stack, with React for front end, MongoDB for database, and Express.js and Node.js server and API.",
         "deploy": "https://immense-refuge-82406.herokuapp.com/"
-    }
-     {
+    },
+    {
         "id": 7,
         "name": "sheet-music-space",
         "title": "Sheet Music Space",
