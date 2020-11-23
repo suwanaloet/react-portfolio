@@ -59,4 +59,14 @@
         "description": "Coding refactor of a google books API search engine into a GraphQL API built with Apollo. The app is built using the MERN stack, with React for front end, MongoDB for database, and Express.js and Node.js server and API.",
         "deploy": "https://immense-refuge-82406.herokuapp.com/"
     }
+     {
+        "id": 7,
+        "name": "sheet-music-space",
+        "title": "Sheet Music Space",
+        "github": "https://github.com/suwanaloet/sheet-music-space",
+        "image": "https://raw.githubusercontent.com/suwanaloet/portfolio-assets/master/sheetmusicspace1.png",
+        "alt": "sheet music space blog post page with entries",
+        "description": "This website was created to give music enthusiasts a place to save the sheet music they have found on the open web, to easily find again later.",
+        "deploy": "https://mysterious-hollows-86719.herokuapp.com/"
+    }
 ]
