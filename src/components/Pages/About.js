@@ -19,7 +19,21 @@ function About() {
                             Aspiring web developer, law student, musician, arranger and composer, eager to help you with whatever you may need!
                         </p>
                         <p>
-                            Want to learn more about how i can be useful to your orgainzation? Head over to the "Resume" and "Projects" pages, and if you see something you like, head over to the "Contacts" page and let me know!
+                            Want to learn more about how I can be useful to your orgainzation? Head over to the "Resume" and "Projects" pages, and if you see something you like, head over to the "Contacts" page and let me know!
+                        </p>
+                        
+                        <p>
+                            
+                        </p>
+                        <h4> Biographical Statement: </h4>
+                        <p>
+                            Sean Suwanaloet is a solo pactitioner in the areas of indigent criminal defense and immigration law. He is based in Walnut, CA and practices in California and Arizona. Attorney Suwanaloet lives a life dedicated to public service and is eager to help where he capably can. 
+                        </p>
+                        <p>
+                            Sean has long held a passion for his community and continues to be an active volunteer. He serves in disaster with an international aid organization, as a tutor for troubled youth with School on Wheels, a tutor for Marine prospects with RSS La Puente, and in general community engagement as co-founder and technical lead for Walnut NextGen. He has also been as a veterans historian with grassroots participation in the Veterans History Project and is one of the local historians of the Pomona Valley. 
+                        </p>
+                        <p>
+                            Attorney Suwanaloet graduated from the University of Wisconsin Law School in 2023 and began his practice serving as an Arizona Public Defender for three years. Having since returned to California, he is currently seeking to rebuild his community roots and pursue new opportunties to serve. 
                         </p>
                     </div>
 
