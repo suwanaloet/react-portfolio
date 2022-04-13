@@ -33,7 +33,7 @@ function About() {
                             Sean has long held a passion for his community and continues to be an active volunteer. He serves in disaster with an international aid organization, as a tutor for troubled youth with School on Wheels, a tutor for Marine prospects with RSS La Puente, and in general community engagement as co-founder and technical lead for Walnut NextGen. He has also been as a veterans historian with grassroots participation in the Veterans History Project and is one of the local historians of the Pomona Valley. 
                         </p>
                         <p>
-                            Attorney Suwanaloet graduated from the University of Wisconsin Law School in 2023 and began his practice serving as an Arizona Public Defender for three years. Having since returned to California, he is currently seeking to rebuild his community roots and pursue new opportunties to serve. 
+                            Attorney Suwanaloet graduated from the University of Wisconsin Law School in 2023 and began his practice serving as an Arizona Public Defender for three years. Having since returned to California, he is currently seeking to rebuild his community roots and pursue new opportunities to serve. 
                         </p>
                     </div>
 
